@@ -1,0 +1,50 @@
+[
+  {
+    "desc": "Cerveza estilo Golden Lager artesanal chilena, fermentada con levaduras lager a temperatura baja. Ligera, refrescante, sabrosa, delicada y fácil de tomar.",
+    "id": "P001",
+    "img": "https://cdnx.jumpseller.com/cerveza-mas-56/image/34360626/resize/640/640?1682105708",
+    "ingredients": ["Agua", "Malta", "Lúpulo", "Levadura"],
+    "name": "Lager",
+    "price": 5950
+  },
+  {
+    "desc": "Espuma, Color marfil de media persistencia.",
+    "id": "P002",
+    "img": "https://tofuu.getjusto.com/orioneat-prod-resized/beZeHxZXbfRsBCcvA-350-350.webp",
+    "ingredients": ["Agua", "Malta", "Lúpulo", "Levadura"],
+    "name": "Strong Lager",
+    "price": 7250
+  },
+  {
+    "desc": "Cerveza artesanal, Oscura, profunda y de gran cuerpo. 7 grados. Notas a chocolate y café. Con cremosa espuma color moka.",
+    "id": "P003",
+    "img": "https://cdnx.jumpseller.com/cerveza-mas-56/image/34360151/resize/640/640?1682105001",
+    "ingredients": ["Agua", "Malta", "Lúpulo", "Levadura"],
+    "name": "Stout",
+    "price": 5990
+  },
+  {
+    "desc": "De un sabor intenso de maltas con exquisito aroma que evoca expresso y chocolate. Esta imperial Stout con un cuerpo robusto tiene un final largo y fuerteDe un sabor intenso de maltas con exquisito aroma que evoca expresso y chocolate. Esta imperial Stout con un cuerpo robusto tiene un final largo y fuerte.",
+    "id": "P004",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP85h40OnWQHSJMlaW0TjSkyuZnOK427lvbLsSwmaErw&s",
+    "ingredients": ["Agua", "Malta", "Lúpulo", "Levadura"],
+    "name": "Imprerial Stout",
+    "price": 9590
+  },
+  {
+    "desc": "Nuestra Ámbar Ale, es una cerveza artesanal chilena de color ámbar, con cuerpo medio, sus aromas son frutales y cítricos gracias al proceso de Dry Hopping. Prueba su dulzor procedente de la malta caramelo, leve amargor y suave espuma.",
+    "id": "P005",
+    "img": "https://cdnx.jumpseller.com/cerveza-mas-56/image/34360484/8.png?1682105490",
+    "ingredients": ["Agua", "Malta", "Lúpulo", "Levadura"],
+    "name": "Ambar",
+    "price": 6450
+  },
+  {
+    "desc": "Nuestra IPA (India Pale Ale), es una cerveza artesanal chilena, con aromas lupulados, frutales y cítricos, gracias al proceso de Dry-Hopping.",
+    "id": "P006",
+    "img": "https://cdnx.jumpseller.com/cerveza-mas-56/image/34360835/resize/1200/1200?1682106072",
+    "ingredients": ["Agua", "Malta", "Lúpulo", "Levadura"],
+    "name": "Ipa",
+    "price": 8500
+  }
+]
